@@ -1,0 +1,27 @@
+
+T110C 000:279 SEGGER J-Link V4.96d Log File (0001ms, 0260ms total)
+T110C 000:279 DLL Compiled: Jan 29 2015 11:45:37 (0001ms, 0260ms total)
+T110C 000:279 Logging started @ 2018-06-07 13:47 (0001ms, 0260ms total)
+T110C 000:280 JLINK_SetWarnOutHandler(...) (0000ms, 0260ms total)
+T110C 000:280 JLINK_OpenEx(...)
+Firmware: J-Link ARM V8 compiled Jan 31 2018 18:34:52
+Hardware: V8.00
+S/N: 20080643
+Feature(s): RDI,FlashDL,FlashBP,JFlash,GDBFull  returns O.K. (0258ms, 0518ms total)
+T110C 000:538 JLINK_SetErrorOutHandler(...) (0000ms, 0518ms total)
+T110C 000:538 JLINK_ExecCommand("ProjectFile = "E:\ALIENTEK MiniSTM32 V3.0开发板资料\4，程序源码\2，标准例程-V3.5库函数版本\ALIENTEK MINISTM32 实验1跑马灯-库函数操作\USER\JLinkSettings.ini"", ...)  returns 0x00 (0000ms, 0518ms total)
+T110C 000:541 JLINK_ExecCommand("Device = STM32F103RC", ...)Device "STM32F103RC" selected.  returns 0x00 (0004ms, 0522ms total)
+T110C 000:545 JLINK_ExecCommand("DisableConnectionTimeout", ...)  returns 0x01 (0000ms, 0522ms total)
+T110C 000:545 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0522ms total)
+T110C 000:545 JLINK_GetDLLVersion()  returns 49604 (0000ms, 0522ms total)
+T110C 000:545 JLINK_GetFirmwareString(...) (0000ms, 0522ms total)
+T110C 000:556 JLINK_GetDLLVersion()  returns 49604 (0000ms, 0522ms total)
+T110C 000:556 JLINK_GetCompileDateTime() (0000ms, 0522ms total)
+T110C 000:560 JLINK_GetFirmwareString(...) (0000ms, 0522ms total)
+T110C 000:564 JLINK_GetHardwareVersion()  returns 0x13880 (0000ms, 0522ms total)
+T110C 000:570 JLINK_TIF_Select(JLINKARM_TIF_JTAG)  returns 0x00 (0001ms, 0523ms total)
+T110C 000:571 JLINK_SetSpeed(10000) (0000ms, 0523ms total)
+T110C 000:571 JLINK_GetIdData(...) (0000ms, 0523ms total)
+T110C 001:923 JLINK_Close() (0001ms, 0524ms total)
+T110C 001:923  (0001ms, 0524ms total)
+T110C 001:923 Closed (0001ms, 0524ms total)
