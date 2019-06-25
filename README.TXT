@@ -1,2 +1,0 @@
-STM32F103C8T6╣дс╡╪ЧI2C
-PB6 -- SCL; PB7 -- SDA
